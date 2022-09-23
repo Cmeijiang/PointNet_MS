@@ -1,5 +1,5 @@
-# Pointnet_Mindspore
-This repo is implementation for PointNet in Mindspore and on ModelNet40 and ShapeNetPart datasets.
+# Pointnet_MindSpore
+This repo is implementation for PointNet in MindSpore and on ModelNet40 and ShapeNetPart datasets.
 # PointNet Description
 PointNet was proposed in 2017, it is a hierarchical neural network that applies PointNet recursively on a nested partitioning of the input point set. The author of this paper proposes a method of applying deep learning model directly to point cloud data, which is called pointnet.
 
